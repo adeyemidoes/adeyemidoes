@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adeyemi</h1>
-<h3 align="center">I turn data into actionable insights that drive results for businesses 📊🗂️</h3>
+<h3 align="center">I turn data into actionable insights that drive results 📊🗂️</h3>
 
 - 🌱 At the moment, I'm delving deep into **Excel, SQL, and Power-BI**
 
