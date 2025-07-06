@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeyemi</h1>
 <h3 align="center">I turn data into actionable insights that drive results 📊🗂️</h3>
 
-- 🌱 At the moment, I'm delving deep into **Excel, SQL, and Power-BI**
+- 🌱 At the moment, I'm delving deep into **Excel, SQL, and Tableau**
 
 - 👀 I'm currently looking for exciting collaborations or internships **to further enhance my experience in the data world**
 
